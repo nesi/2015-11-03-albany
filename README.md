@@ -233,3 +233,4 @@ please [file an issue](https://github.com/swcarpentry/workshop-template/issues)
 or [mail us](mailto:admin@software-carpentry.org).
 
 [import]: http://import.github.com/new?import_url=https://github.com/swcarpentry/workshop-template
+
